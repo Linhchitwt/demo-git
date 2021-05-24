@@ -34,4 +34,5 @@ git checkout name-branch
 
 git push -u origin name-branch
 
-
+<!-- xoa link-->
+git remote set-url origin -linkgit
